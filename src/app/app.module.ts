@@ -7,7 +7,8 @@ import { AuthModule } from './auth/auth.module';
 
 
 import { AppComponent } from './app.component';
-import { PagenofoundComponent } from './pages/pagenofound/pagenofound.component';
+import { PagenofoundComponent } from './pagenofound/pagenofound.component';
+
 
 
 
